@@ -14,9 +14,17 @@
 
 <h4> Reach out to me </h4>
 
-<img  width="22" src="https://cdn.simpleicons.org/linkedin/[COLOR]" href="https://www.linkedin.com/in/asl%C4%B1han-alp-07b009227/" align="left"/>
-<img  width="22" src="https://cdn.simpleicons.org/twitter/[COLOR]" align="left" href="https://twitter.com/AslhanAlpS"/>
-<img  width="22" src="https://cdn.simpleicons.org/gmail/[COLOR]" align="left" href="aslhanalp@gmail.com"/>
+<a href="https://www.linkedin.com/in/asl%C4%B1han-alp-07b009227/">
+ <img  width="22" src="https://cdn.simpleicons.org/linkedin/[COLOR]"  align="left"/>
+</a>
+
+<a href="https://twitter.com/AslhanAlpS">
+  <img width="22" src="https://cdn.simpleicons.org/twitter/[COLOR]"  />
+</a>
+
+<a href="mailto:aslhanalp@gmail.com">
+<img  width="22" src="https://cdn.simpleicons.org/gmail/[COLOR]" align="left" />
+</a>
 
 <br /><br />
 
