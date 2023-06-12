@@ -4,7 +4,7 @@
 <h3> I'm Aslihan | Frontend React Developer 👩‍💻 </h3><br/>
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400px" height="250px"/>
 
-<h4> <font color="pink">More About Me </font>  :seedling: </h4> <br/>
+<h4 style="color: pink">More About Me :seedling:</h4>
 
 • Self-taught developer focusing on frontend <br/>
 
